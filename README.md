@@ -6,13 +6,6 @@ My First Ever robot a 3r Manipulator robotic arm with a rotating base.
 A 4-DOF robotic arm with base rotation, 3 link rotations, and end-effector rotation using an MG90S servo.  
 Controlled via Arduino Uno over USB serial connection from a Python GUI.
 
----
-
-## 📸 Demo
-*(Add image or GIF here)*
-
----
-
 ## 🔧 Features
 - **4 DOF movement:**
   - 1 × Base rotation (MG995)
@@ -43,5 +36,4 @@ Controlled via Arduino Uno over USB serial connection from a Python GUI.
 - **PyQt5** (GUI framework)
 - **Qt Designer** (UI design)
 - **Fusion 360** (mechanical design)
-   ```bash
-   pip install pyserial pyqt5
+
