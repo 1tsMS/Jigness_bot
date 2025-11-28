@@ -1,6 +1,4 @@
 # Jigness_bot
-My First Ever robot a 3r Manipulator robotic arm with a rotating base.
-
 # 4-DOF Arduino Robotic Arm
 
 A 4-DOF robotic arm with base rotation, 3 link rotations, and end-effector rotation using an MG90S servo.  
