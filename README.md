@@ -4,6 +4,9 @@
 A 4-DOF robotic arm with base rotation, 3 link rotations, and end-effector rotation using an MG90S servo.  
 Controlled via Arduino Uno over USB serial connection from a Python GUI.
 
+## Demo
+https://www.youtube.com/watch?v=uVJDmJBzgXw
+
 ## 🔧 Features
 - **4 DOF movement:**
   - 1 × Base rotation (MG995)
